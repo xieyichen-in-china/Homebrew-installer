@@ -3,4 +3,6 @@
 You can decide whether to install Xcode Command Line Tools.
 Homebrew will be installed in /usr/local/bin.    
 ## Use
-Run ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/xieyichen-in-china/Homebrew-installer/main/install.sh)"```to use.
+Run 
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/xieyichen-in-china/Homebrew-installer/main/install.sh)"```
+to use.
