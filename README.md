@@ -8,3 +8,6 @@ Run
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/xieyichen-in-china/Homebrew-installer/main/install.sh)"
 ```
 to use.
+
+##
+2020.3.10
